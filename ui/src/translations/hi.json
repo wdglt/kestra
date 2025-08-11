@@ -1364,6 +1364,8 @@
     "topology": "टोपोलॉजी",
     "topology-graph": {
       "graph-orientation": "ग्राफ़ अभिविन्यास",
+      "invalid": "Graph error",
+      "invalid_description": "An error occurred while loading the graph. Please check the source code for errors.",
       "zoom-fit": "फिट",
       "zoom-in": "ज़ूम इन करें",
       "zoom-out": "ज़ूम आउट करें",
